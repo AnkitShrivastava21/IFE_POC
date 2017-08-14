@@ -1,1 +1,2 @@
+Write-Host "Today's Date displayed below"
 Get-Date
