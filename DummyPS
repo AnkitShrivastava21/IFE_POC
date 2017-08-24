@@ -2,4 +2,4 @@ Write-Host "Today's Date displayed below"
 Get-Date
 Write-Host "Display Child Item of the user directory"
 Get-ChildItem
-Get-Help
+
